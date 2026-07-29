@@ -1,0 +1,5 @@
+__pyche__/
+*.pyc
+.env
+.venv/
+.idea/
