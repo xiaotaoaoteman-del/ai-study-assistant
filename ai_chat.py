@@ -40,7 +40,7 @@ def ask_ai(question):
 
 
 def main():
-    print("===== AI 学习助手 =====")
+    print("===== AI 学习助手 v0.1 =====")
     print("输入 quit 可以退出程序。\n")
     while True:
         question = input("你：").strip()
